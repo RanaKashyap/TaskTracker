@@ -1,4 +1,2 @@
-Task Tracker
-user is able to add tasks which are saved to the database and shown on the screen. 
-
-not deployed yet
+Traversy Media React Tutorial
+https://youtu.be/w7ejDZ8SWv8
